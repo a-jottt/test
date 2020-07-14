@@ -1,0 +1,12 @@
+{
+  "token": {
+    "code": 200,
+    "message": "Token refreshed successfully",
+    "result":  [
+    {
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJEZXZpY2VJRCI6InQ1NTM0ZzEiLCJVc2VySUQiOiIyNTAwNSIsIkVuZHRpbWUiOiIwNy8wMS8yMDIwLCAxNDozMjowMiJ9.b5OSa7DSFqFX2PpTTOSYgKXom0S8dw56Vf9PPhGZ9HY"
+    }
+    ],
+    "commonResult": null
+  }
+}
